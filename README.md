@@ -1,6 +1,6 @@
-# D-Drum Machine (JUCE)
+# D-Drum Machine
 
-A JUCE synth plugin that generates lo-fi, Burial-inspired drum sounds from fixed MIDI notes.
+A drum machine synthesizer plugin, created using JUCE (AU/VST3/standalone), that generates lo-fi, Burial-inspired drum sounds from fixed MIDI notes.
 
 ## MIDI note map
 
