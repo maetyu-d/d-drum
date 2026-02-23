@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Build outputs
+build/
+JUCE/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
