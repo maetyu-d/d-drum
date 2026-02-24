@@ -1,6 +1,12 @@
 # macOS
 .DS_Store
 
+# Local archives
+*.zip
+
+# Build outputs
+build/
+
 # CMake generated files
 CMakeCache.txt
 CMakeFiles/
